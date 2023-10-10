@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+background-color: black;
+  color: hotpink;
+}
+
+.sectionStyle{
+  text-align:center;
+}
+.topSection{
+  font-size:2em;
